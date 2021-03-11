@@ -1,5 +1,5 @@
-Intercom Take Home Test
-This repository contains the code for the Intercom Take Home Test in which we invite guests within 100km of the Dublin offices to an event.
+**Intercom Take Home Test
+**This repository contains the code for the Intercom Take Home Test in which we invite guests within 100km of the Dublin offices to an event.
 
 Have chosen Python 3.6 since it is a quick language to write, is well-supported, is well understood by most devs, and performance isn't critical. Something like this could be run in AWS Lambda which works well with Python.
 
